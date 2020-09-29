@@ -1,5 +1,5 @@
 {
-  "name": "nodejs-ejs",
+  "name": "y",
   "version": "1.0.0",
   "description": "Simple web app with EJS and express.js",
   "main": "app.js",
@@ -10,6 +10,14 @@
   "license": "ISC",
   "dependencies": {
     "ejs": "^3.1.5",
-    "express": "^4.17.1"  
-  }
+    "express": "^4.17.1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/singhamit9/node-sample-app.git"
+  },
+  "bugs": {
+    "url": "https://github.com/singhamit9/node-sample-app/issues"
+  },
+  "homepage": "https://github.com/singhamit9/node-sample-app#readme"
 }
